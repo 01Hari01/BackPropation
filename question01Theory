@@ -1,0 +1,25 @@
+Use the basic equations for its training from our notes, to implement a simple Perceptron for a given
+classification problem. The number of inputs and the classification problem to solve will be specifiable by the
+user. Implement this from scratch using, for example, for-loops to iterate around epochs and patterns as in
+the lecture notes. Try to make the code as simple as possible by using arrays/matrices/vectors. The training
+should carry on until some maximum number of epochs is reached or until all patterns are learned. Include
+the design for this stage (that is basic equations and structure of the algorithm), the code, and also some
+experiments for 2-3 low- or high-dimensional example problems of your choice (you can download a dataset
+from the internet, or define one directly, or generate one easily yourselves). Display the weight adaptations
+during the epochs to show the learning process. Extra marks if your program displays the boundary (for 2D
+or 3D only!).
+
+Tasks division:
+
+1)colllection of basic equations from our notes to implement a simple perceptron
+2)Number of inputs and the classification problem
+3)training the model with some epochs
+4)define a dataset from the internet and display the weight adaptions during the epochs.
+
+Stage 01:
+A simple perceptron: A very fundamental block of neural network.
+
+Consider a model with n binary inputs in the form of a vector and exactly same amount of weights.
+This is called as Bias.
+
+

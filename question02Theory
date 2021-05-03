@@ -1,0 +1,19 @@
+Use the basic equations of Backpropagation from our notes to implement and simulate a simple MLP network.
+The architecture (number of inputs, number of layers and number of nodes per layer, and number of outputs)
+can be given by the user or be fixed inside your program. Implement both the forward and the backward
+passes separately, and use a simple activation function (e.g., logistic, relu, etc.). Include the design for this
+stage (that is basic equations, structure and sequencing of operations), the code, and also some experiments
+for 2-3 simple problems of your choice (e.g., toy problems (XOR, symmetry checking), or using random points
+from a multi-dimensional function you randomly create). Discuss the learning ability in terms of reducing the
+fitting error in your patterns and experiment with different architectures (you can ignore generalisation
+issues and just focus on weight adaptation only). Extra marks will be given for momentum incorporation, or
+experimentation with different activation functions, or use complexity control.
+
+Tasks division:
+
+Multi layer perceptron network with sigmoid fucntion
+Back propagation algorithm
+forward pass,backward pass
+simple activation fucntion
+Architecture of the neural network
+
